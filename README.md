@@ -2,7 +2,7 @@
 
 Exploding Kitten is a single-player card game built using **React + Redux** for the frontend and **Golang** for the backend.
 
-**Live Demo**: [Exploding Kitten Game](https://demo-example.com)
+**Live Demo**: [Exploding Kitten Game](https://exploding-kitten-413916.netlify.app/)
 
 ---
 
